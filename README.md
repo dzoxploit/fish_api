@@ -107,4 +107,6 @@ Before you begin, ensure you have the following installed:
 
 ---
 
+3. For Documentation API you can import file salmon-api.postman_collection.json for see documentation API
+
 Follow these steps to set up your Laravel project successfully. If you encounter any issues, refer to the Laravel documentation or community forums for additional support.
